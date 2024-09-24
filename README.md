@@ -19,7 +19,7 @@ I am a fullstack developer with experience building robust and scalable web appl
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table border="none"><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working as freelance developer and as computer science teacher at Instituto Barranqueras  
   
@@ -30,7 +30,7 @@ I am a fullstack developer with experience building robust and scalable web appl
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://imgur.com/a/JAv0Gv1" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/0JqDHCa.jpg" align="center" style="width: 100%" />
 </div>  
 
 
