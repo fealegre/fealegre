@@ -50,25 +50,16 @@ I am a fullstack developer with experience building robust and scalable web appl
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fealegre&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![fealegre's Stats](https://github-readme-stats.vercel.app/api?username=fealegre&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-</td><td valign="top" width="50%">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fealegre&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+![fealegre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fealegre&theme=dracula&hide_border=true)
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->
+<br/>
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
+![fealegre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fealegre&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=fealegre&&style=flat-square)  
   
