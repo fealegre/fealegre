@@ -17,24 +17,12 @@ I am a fullstack developer with experience building robust and scalable web appl
 
 <br/>  
 
-
 ## Rapidfire  
-<table border="none"><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working as freelance developer and as computer science teacher at Instituto Barranqueras  
   
 
 - 🌱 I’m currently learning System Analyst at Silvertech - Eidos - BID Lab  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.imgur.com/0JqDHCa.jpg" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
