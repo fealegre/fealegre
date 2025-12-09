@@ -53,17 +53,22 @@ I am a fullstack developer with experience building robust and scalable web appl
 
 ## Github Stats  
 
-![fealegre's Stats](https://github-readme-stats.vercel.app/api?username=fealegre&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+[//]: # (![fealegre's Stats]&#40;https://github-readme-stats.vercel.app/api?username=fealegre&theme=dracula&show_icons=true&hide_border=true&count_private=true&#41;)
 
-<br/>
+[//]: # ()
+[//]: # (<br/>)
 
-![fealegre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fealegre&theme=dracula&hide_border=true)
+[//]: # ()
+[//]: # (![fealegre's Streak]&#40;https://github-readme-streak-stats.herokuapp.com/?user=fealegre&theme=dracula&hide_border=true&#41;)
 
-<br/>
+[//]: # ()
+[//]: # (<br/>)
 
-![fealegre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fealegre&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+[//]: # ()
+[//]: # (![fealegre's Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=fealegre&theme=dracula&show_icons=true&hide_border=true&layout=compact&#41;)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=fealegre&&style=flat-square)  
+[//]: # ()
+[//]: # (![Profile views counter]&#40;https://komarev.com/ghpvc/?username=fealegre&style=flat-square&#41;  )
   
 
 <br/>  
